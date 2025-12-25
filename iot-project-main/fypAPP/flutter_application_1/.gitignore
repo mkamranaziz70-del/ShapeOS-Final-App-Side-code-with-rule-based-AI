@@ -13,3 +13,5 @@ build/
 # Temporary files
 *.log
 *.tmp
+
+iot-project-main/ai_engine/serviceAccountKey.json
