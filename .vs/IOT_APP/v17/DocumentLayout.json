@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\IOT_APP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IOT_APP\\iot-project-main\\ai_engine\\data\\iot_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iot-project-main\\ai_engine\\data\\iot_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IOT_APP\\iot-project-main\\ai_engine\\train_model.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iot-project-main\\ai_engine\\train_model.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IOT_APP\\iot-project-main\\ai_engine\\csv_ai_streamer.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iot-project-main\\ai_engine\\csv_ai_streamer.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IOT_APP\\iot-project-main\\ai_engine\\upload_to_firebase.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iot-project-main\\ai_engine\\upload_to_firebase.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\widgets\\security_tab.dart||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iot-project-main\\fypAPP\\flutter_application_1\\lib\\widgets\\security_tab.dart||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -23,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iot-project-main\\fypAPP\\flutter_application_1\\lib\\models\\device_model.dart||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IOT_APP\\iot-project-main\\ai_engine\\csv_ai_streamer.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iot-project-main\\ai_engine\\csv_ai_streamer.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IOT_APP\\iot-project-main\\ai_engine\\ml_recommendation.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iot-project-main\\ai_engine\\ml_recommendation.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IOT_APP\\iot-project-main\\ai_engine\\train_model.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iot-project-main\\ai_engine\\train_model.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IOT_APP\\iot-project-main\\ai_engine\\firebase_listener.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -41,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IOT_APP\\iot-project-main\\ai_engine\\outputs\\recommendations.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iot-project-main\\ai_engine\\outputs\\recommendations.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IOT_APP\\iot-project-main\\ai_engine\\data\\iot_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iot-project-main\\ai_engine\\data\\iot_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\routes.dart||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -115,10 +119,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iot-project-main\\fypAPP\\flutter_application_1\\lib\\services\\recommendation_service.dart||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IOT_APP\\iot-project-main\\ai_engine\\upload_to_firebase.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iot-project-main\\ai_engine\\upload_to_firebase.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\services\\ai_integration.dart||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iot-project-main\\fypAPP\\flutter_application_1\\lib\\services\\ai_integration.dart||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -130,49 +130,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "security_tab.dart",
-              "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\widgets\\security_tab.dart",
-              "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\widgets\\security_tab.dart",
-              "ToolTip": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\widgets\\security_tab.dart",
-              "RelativeToolTip": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\widgets\\security_tab.dart",
-              "ViewState": "AgIAAM0AAAAAAAAAAADwv+kAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-23T20:42:27.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "csv_ai_streamer.py",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\ai_engine\\csv_ai_streamer.py",
               "RelativeDocumentMoniker": "iot-project-main\\ai_engine\\csv_ai_streamer.py",
               "ToolTip": "D:\\IOT_APP\\iot-project-main\\ai_engine\\csv_ai_streamer.py",
               "RelativeToolTip": "iot-project-main\\ai_engine\\csv_ai_streamer.py",
-              "ViewState": "AgIAACsAAAAAAAAAAADwvzoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-12-23T04:01:38.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "train_model.py",
-              "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\ai_engine\\train_model.py",
-              "RelativeDocumentMoniker": "iot-project-main\\ai_engine\\train_model.py",
-              "ToolTip": "D:\\IOT_APP\\iot-project-main\\ai_engine\\train_model.py",
-              "RelativeToolTip": "iot-project-main\\ai_engine\\train_model.py",
-              "ViewState": "AgIAAB4AAAAAAAAAAADwvzoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-13T18:31:25.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "dashboard_screen.dart",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\screens\\dashboard_screen.dart",
               "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\screens\\dashboard_screen.dart",
@@ -180,12 +155,11 @@
               "RelativeToolTip": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\screens\\dashboard_screen.dart",
               "ViewState": "AgIAAHMBAAAAAAAAAADwv48BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-20T06:36:13.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T06:36:13.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "device_model.dart",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\models\\device_model.dart",
               "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\models\\device_model.dart",
@@ -193,12 +167,11 @@
               "RelativeToolTip": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\models\\device_model.dart",
               "ViewState": "AgIAACUAAAAAAAAAAADwv0EAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-22T13:12:32.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T13:12:32.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "device_detail_screen.dart",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\screens\\device_detail_screen.dart",
               "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\screens\\device_detail_screen.dart",
@@ -206,12 +179,62 @@
               "RelativeToolTip": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\screens\\device_detail_screen.dart",
               "ViewState": "AgIAAFAAAAAAAAAAAADwv2wAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-06T19:44:08.038Z",
+              "WhenOpened": "2025-12-06T19:44:08.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "upload_to_firebase.py",
+              "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\ai_engine\\upload_to_firebase.py",
+              "RelativeDocumentMoniker": "iot-project-main\\ai_engine\\upload_to_firebase.py",
+              "ToolTip": "D:\\IOT_APP\\iot-project-main\\ai_engine\\upload_to_firebase.py",
+              "RelativeToolTip": "iot-project-main\\ai_engine\\upload_to_firebase.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-13T19:07:30.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "train_model.py",
+              "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\ai_engine\\train_model.py",
+              "RelativeDocumentMoniker": "iot-project-main\\ai_engine\\train_model.py",
+              "ToolTip": "D:\\IOT_APP\\iot-project-main\\ai_engine\\train_model.py",
+              "RelativeToolTip": "iot-project-main\\ai_engine\\train_model.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-13T18:31:25.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "iot_data.csv",
+              "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\ai_engine\\data\\iot_data.csv",
+              "RelativeDocumentMoniker": "iot-project-main\\ai_engine\\data\\iot_data.csv",
+              "ToolTip": "D:\\IOT_APP\\iot-project-main\\ai_engine\\data\\iot_data.csv",
+              "RelativeToolTip": "iot-project-main\\ai_engine\\data\\iot_data.csv",
+              "ViewState": "AgIAALsEAAAAAAAAAADwv80EAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-12-23T08:27:01.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "security_tab.dart",
+              "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\widgets\\security_tab.dart",
+              "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\widgets\\security_tab.dart",
+              "ToolTip": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\widgets\\security_tab.dart",
+              "RelativeToolTip": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\widgets\\security_tab.dart",
+              "ViewState": "AgIAAM0AAAAAAAAAAADwv+kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-23T20:42:27.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "overview_tab.dart",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\widgets\\overview_tab.dart",
               "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\widgets\\overview_tab.dart",
@@ -219,12 +242,11 @@
               "RelativeToolTip": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\widgets\\overview_tab.dart",
               "ViewState": "AgIAACQAAAAAAAAAAADwv0AAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-21T14:18:23.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T14:18:23.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "recommendations.json",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\ai_engine\\outputs\\recommendations.json",
               "RelativeDocumentMoniker": "iot-project-main\\ai_engine\\outputs\\recommendations.json",
@@ -236,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "firebase_listener.py",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\ai_engine\\firebase_listener.py",
               "RelativeDocumentMoniker": "iot-project-main\\ai_engine\\firebase_listener.py",
@@ -248,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ml_recommendation.py",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\ai_engine\\ml_recommendation.py",
               "RelativeDocumentMoniker": "iot-project-main\\ai_engine\\ml_recommendation.py",
@@ -260,19 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "iot_data.csv",
-              "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\ai_engine\\data\\iot_data.csv",
-              "RelativeDocumentMoniker": "iot-project-main\\ai_engine\\data\\iot_data.csv",
-              "ToolTip": "D:\\IOT_APP\\iot-project-main\\ai_engine\\data\\iot_data.csv",
-              "RelativeToolTip": "iot-project-main\\ai_engine\\data\\iot_data.csv",
-              "ViewState": "AgIAAL4DAAAAAAAAAADwv+YDAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-12-23T08:27:01.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "routes.dart",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\routes.dart",
               "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\routes.dart",
@@ -284,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "firebase_options.dart",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\firebase_options.dart",
               "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\firebase_options.dart",
@@ -296,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "control_tab.dart",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\widgets\\control_tab.dart",
               "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\widgets\\control_tab.dart",
@@ -308,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "budget_analysis_screen.dart",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\screens\\budget_analysis_screen.dart",
               "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\screens\\budget_analysis_screen.dart",
@@ -320,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "budget_input_screen.dart",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\screens\\budget_input_screen.dart",
               "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\screens\\budget_input_screen.dart",
@@ -332,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "energy_tab.dart",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\widgets\\energy_tab.dart",
               "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\widgets\\energy_tab.dart",
@@ -344,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "serviceAccountKey.json",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\ai_engine\\serviceAccountKey.json",
               "RelativeDocumentMoniker": "iot-project-main\\ai_engine\\serviceAccountKey.json",
@@ -356,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "overview_tab.dart",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\overview_tab.dart",
               "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\overview_tab.dart",
@@ -368,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "pubspec.yaml",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\pubspec.yaml",
               "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\pubspec.yaml",
@@ -380,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "budget_card.dart",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\widgets\\budget_card.dart",
               "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\widgets\\budget_card.dart",
@@ -392,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "budget_service.dart",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\services\\budget_service.dart",
               "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\services\\budget_service.dart",
@@ -404,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "main.dart",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\main.dart",
               "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\main.dart",
@@ -416,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "energy_tab.dart",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\energy_tab.dart",
               "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\energy_tab.dart",
@@ -427,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "firebase_utils.py",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\ai_engine\\firebase_utils.py",
               "RelativeDocumentMoniker": "iot-project-main\\ai_engine\\firebase_utils.py",
@@ -439,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "main.py",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\ai_engine\\main.py",
               "RelativeDocumentMoniker": "iot-project-main\\ai_engine\\main.py",
@@ -451,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "recommendation_service.dart",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\services\\recommendation_service.dart",
               "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\services\\recommendation_service.dart",
@@ -462,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "notification_service.dart",
               "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\fypAPP\\flutter_application_1\\lib\\services\\notification_service.dart",
               "RelativeDocumentMoniker": "iot-project-main\\fypAPP\\flutter_application_1\\lib\\services\\notification_service.dart",
@@ -471,18 +481,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-12-15T15:09:02.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "upload_to_firebase.py",
-              "DocumentMoniker": "D:\\IOT_APP\\iot-project-main\\ai_engine\\upload_to_firebase.py",
-              "RelativeDocumentMoniker": "iot-project-main\\ai_engine\\upload_to_firebase.py",
-              "ToolTip": "D:\\IOT_APP\\iot-project-main\\ai_engine\\upload_to_firebase.py",
-              "RelativeToolTip": "iot-project-main\\ai_engine\\upload_to_firebase.py",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAiwD4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-13T19:07:30.148Z"
             },
             {
               "$type": "Document",
